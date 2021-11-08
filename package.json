@@ -1,0 +1,22 @@
+{
+  "name": "web-parser",
+  "version": "1.0.0",
+  "description": "parse web for required info project in progress...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piorozla/web-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piorozla/web-parser/issues"
+  },
+  "homepage": "https://github.com/piorozla/web-parser#readme",
+  "dependencies": {
+    "fastify": "^3.23.1"
+  }
+}
